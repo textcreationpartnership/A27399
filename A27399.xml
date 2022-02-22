@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony to the true light that lightens every man that comes into the world W.B.</title>
+            <author>Bennit, William, d. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27399</idno>
+            <idno type="STC">Wing B1895</idno>
+            <idno type="STC">ESTC R14011</idno>
+            <idno type="EEBO-CITATION">13588743</idno>
+            <idno type="OCLC">ocm 13588743</idno>
+            <idno type="VID">100611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100611)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 783:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony to the true light that lightens every man that comes into the world W.B.</title>
+                  <author>Bennit, William, d. 1684.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by William Bennit.  Cf. Wing.</note>
+                  <note>First edition.  Cf. BM.</note>
+                  <note>Probable place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100611:1"/>
+            <pb facs="tcp:100611:1" rendition="simple:additions"/>
+            <p> A TESTIMONY To the True LIGHT That Lightens every Man that comes into the VVorld.</p>
+            <p>The People that did ſit in Darkneſs have ſeen a great and glorious Light; and unto thoſe that were under the Region and Shadow of Death, is the Light of Life ariſen, and the Bleſſed Day ſprung from on high, and ſhineth in their Tabernacles; And that which they have ſeen, heard, felt, and taſted of, the ſame they have and do bear Teſtimony unto, though few there be that have re<g ref="char:EOLhyphen"/>ceived their Teſtimony.</p>
+            <q>
+               <p>
+                  <hi>For who hath believed our Report, and unto whom is the Arm of the Lord Revealed.</hi>
+               </p>
+               <p>
+                  <hi>But come ye, O Houſe of</hi> Iſrael, <hi>and let us walk in the Light of the Lord.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>W. B.</hi>
+            </p>
+            <p>Printed in the Year, 1668.</p>
+            <pb facs="tcp:100611:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="3" facs="tcp:100611:2"/>
+               <head>A Teſtimony to the True Light that ligh<g ref="char:EOLhyphen"/>tens every Man that comes into the World.</head>
+               <p>THe Light revealed within is the (narrow) Way to Life Eternal; and the Door into the Fold of Everlaſting Reſt: the Light is the Entrance into the freſh and green Pa<g ref="char:EOLhyphen"/>ſture wherein the Lord feedeth his Flock, and cauſeth them to lie down in peace and quietneſs, out of the reach of the Beaſts of prey: the Light leads and draweth thoſe that obey it, out of Darkneſs, and from under the region and ſhadow of Death into the Land of the Living, there to dwell under the region and ſhadow of Light and Life: the Light breaks the Bonds of Sin in pieces, and ſnappeth the Cords of Iniquity aſunder, and ſets the ſoul free from the bondage of Corruption, to ſerve the Lord in the Life of Righteouſneſs: the Light draweth and leadeth thoſe that believe in it, and obey it, out of the alienation and ſeparation from God, into the Everlaſting Covenant of Life and Love, where the Soul is in unity with the Lord: the Light ſearcheth the Heart, and operateth in the ſecrets of the Minds of thoſe that obeyed it, and like unto Leaven worketh the Heart and Mind into its own nature, frame and quality: the Light is pure, holy, and undefiled, and hath no unity with the leaſt impure thought, word, or work, but judgeth and condemns it: the Light is meek, contrite, lowly, and humble, and condemns that honour that is corrupt, and is from below, and ſtandeth in the reſpect of perſons; and it ſeeketh the honour of God only: the Light baptiſeth Self into death, ſlayes the Boaſter, puts Fleſh to ſilence, that God may ſpeak in his Temple, who is not to be denied the mouth to ſpeak by: the Light is the heavenly trea<g ref="char:EOLhyphen"/>ſure in the earthen veſſel, that brings honour and glory unto God: the Light hath no fellowſhip with Darkneſs; he that ſaith he is in the Light, and hath unity with the Light, and yet loveth and walk<g ref="char:EOLhyphen"/>eth in Darkneſs, lyeth, and the Light hath not room, place, or en<g ref="char:EOLhyphen"/>tertainment
+<pb n="4" facs="tcp:100611:3"/> in his heart: the Light teacheth thoſe that love it, to love Enemies; its fruit is love, no envy, no malice, no hatred, no bitterneſs, no enmity, no prejudice, no diſcord, no backbiting, no reviling, no evil-whiſpering proceedeth from the Light; the Light condemns it all, and that ground from whence it ſprings: the Light hath no unity with any unfruitfull works of Darkneſs, but reproves them: the Light teacheth to render good for evil, and to forgive Enemies, and to pray for Perſecutors, and to have love and good will to all people, and to ſeek and deſire the Eternal good and wel<g ref="char:EOLhyphen"/>fare of all Souls; he that hates and envies his Enemies abideth not in the Light; Envy is of the Evil-one; he that ſaith he walketh in the Light, and hates his Brother, lyeth, and errs from the Truth: The Light teacheth to love God with thy whole heart, and thy Neighbour, or Brother, as thy ſelf; <hi>He that ſaith he loves God, and hates his Brother, is a Lyer; he that loveth him that begetteth, doth alſo love thoſe that are begotten of him; Love thinketh no ill to Ene<g ref="char:EOLhyphen"/>mies, much leſs to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rethren:</hi> The Light leadeth his Children into love, peace and unity with God, and one with another in the Life of Righteouſneſs; oh, the unity, the unity of Brethren in Light, Love and Life, of God, is exceeding precious and comely, its com<g ref="char:EOLhyphen"/>pared like to precious oyl, poured on the head, that runs down on the beard, even <hi>Aarons</hi> beard, that went down to the skirts of his Garment, and like the dew of <hi>Hermon,</hi> and like the dew that de<g ref="char:EOLhyphen"/>ſcended upon the Mountain of <hi>Sion,</hi> where the bleſſing is, and where the Lord maketh unto his people a Feaſt of Fat things: The Light teacheth, and maketh to be of one heart, of one mind, of one ſoul, and (in all thoſe that walk in it) begetteth one conſent to ſerve and worſhip the only wiſe God, in the one Spirit, and one Truth: The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight giveth a good Underſtanding, a clear Diſcerning, a ſound Judgment: The Light leadeth not into ſtrife and contention, nor into rents, diviſions, and parties, nor into a particularity, and ſelf-ſeperation from the body, nor into ſelf-conceitedneſs, nor into high airy notions, nor into a climbing up in imaginations after high diſ<g ref="char:EOLhyphen"/>coveries; (and ſo ſlight the day of ſmall things, and neglect thy obedience to the preſent gift, through an expectation of ſomething greater to come yet unrevealed; and ſuch like, <hi>Lucifer,</hi> mounts high in their conceits and imaginations, but will fall to the ſide of the pit;) but the Light condemns all this, and judges that ſpirit that
+<pb n="5" facs="tcp:100611:3"/> leadeth thereinto; which ſpirit ſoweth diſcord among Brethren, which is abomination; and that ſpirit leadeth ſome to ſpeak evil of dignities, and to diſpiſe dominion, and to rebel againſt the order and government of the Lamb: The Light judgeth that ſpirit that ſetteth up, and keepeth up (out of the comly deſcent order of Truth) that thing that tends to ſtrife, and breaking unity among Brethren: The Light teacheth thoſe that love it, to ſeek and en<g ref="char:EOLhyphen"/>deavor for love, peace, and unity among Brethren, with all ſelf-de<g ref="char:EOLhyphen"/>nial: The Light teacheth to take away the occaſion of ſtumbling in thy Brothers way: The Light teacheth to be very wary and care<g ref="char:EOLhyphen"/>full of giving Enemies advantage to ſtrengthen themſelves againſt Truth, and the Wicked occaſion to reproach it, and thoſe that live in it: The Light teaches to live and walk in a holy godly life, and blameleſs converſation, as becometh the Goſpel of Truth, and as becometh Saints of the Moſt High: The Light, in thoſe that love it, crucifieth the Fleſh with the luſts and affectious thereof, and teacheth thoſe that love it, how to poſſeſs their veſſels in ſanctificati<g ref="char:EOLhyphen"/>on, and honour: The Light crucifieth the heart unto the world, and worldly things, and redeemeth the mind from the Earth and earthly things; and teacheth to uſe the World as if thou uſe it not<g ref="char:punc">▪</g> The Light draweth the mind out of the many things (where all offend) into the one thing needfull, which giveth not, nor receiveth an of<g ref="char:EOLhyphen"/>fence, but judges the offences, and that ground from whence they come: The Light is ſupernatural, and is to over-rule the naturals, and to keep them within the bounds of the government of Truth, and to limit the affectionate part from leading and drawing the heart and mind into things below, into created objects, and into bondage to the cares of this life, and troubles and cumbrances of this World, which doth not profit but hinder to God-ward: The Light is the girdle of the loyns of the mind, of thoſe that love it, to gird up their hearts and minds unto God, that in him their peace may be perfect: The Light is a ſtop to thoſe thoughts which are re<g ref="char:EOLhyphen"/>proveable by it: The Light is a bridle to the tongue, and they that know it ſo to be, dare not ſay (in a ſelf-will) our tongues is our own, and we will ſpeak: The Light ruleth over the ſouls and bodies of thoſe that believe in, love, follow, and obey it, and teacheth and enableth ſuch to yield their members ſervants of righteouſneſs unto God, even as they have (when they were ſer<g ref="char:EOLhyphen"/>vants
+<pb n="6" facs="tcp:100611:4"/> to ſin) yielded their members ſervants to unrighteouſneſs, and of iniquity unto iniquity: The Light is the Author of the true and living Faith, which giveth victory over the World, and is a ſhield unto the Soul, to fend off the fiery darts of the Devil, and worketh by love to the purifying the heart: The Light is the Au<g ref="char:EOLhyphen"/>thor of the true hope, which is an anchor unto the ſoul, ſure and ſtedfaſt, and is held in a pure conſcience, void of offence towards God and man: The Light is the Author of true patience, long ſuffe<g ref="char:EOLhyphen"/>rance, for bearance, forgiveneſs, and contentedneſs; it teacheth to be patient in all trials, tribulations, troubles, ſtreights and difficulties, and teacheth in all conditions to be contented, and not to murmur againſt the Lord, whatſoever he permitteth to come to paſs: The Light teacheth his children to love one another ſervently, with a clean heart; oh, how good is God, to <hi>Iſrael,</hi> to them that are of a clean heart: The Light teacheth to endeavour to keep the unity of the Spirit in the bond of peace: The Light teacheth the Younger to yield and ſubmit themſelves to the Elder, in the Lord, and to hearken unto Counſel, Inſtruction, and Reproof; he teacheth all his children to be ſubject one to another; he cloathes them with humility, adorneth them with meekneſs, and beautifies them with lowlineſs of ſpirit: The Light teacheth the Strongeſt to condeſcend to the Weakeſt, and to ſerve the meaneſt in love, to bear with the infirmi<g ref="char:EOLhyphen"/>ties of the feeble, to help, and hold up the halting, and to draw forward the backward with the cords of Love, and to caſt a gar<g ref="char:EOLhyphen"/>ment over thy Brothers nakedneſs: The Light, in thoſe that love it, puts out the eye that watcheth for evil, and condemneth that part that boaſteth it ſelf, and rejoyceth at anothers fall, and ſtrengthens it ſelf with prejudice againſt another through his failing, which thing is as moſt abominable filth in the pure Eye of the Light: The Light doth not countenance evil in any, but judges and diſcovers it, though hid under a profeſſion of Truth: The Light is like unto the Touch-ſtone that trys Silver from Tin, it tryeth and diſcovereth the good from the bad; it tryeth motions, thoughts, words, works, and ſpi<g ref="char:EOLhyphen"/>rits: The Light is a Stone which God hath laid in <hi>Sion,</hi> elect and precious, which they that believe, ſhall not be aſhamed, and un<g ref="char:EOLhyphen"/>to thoſe that believe he is very precious; but unto them that believe not, he is as a ſtone of ſtumbling, and a rock of offence, at whom the ſeeming wiſe Maſter-Builders have, and do ſtumble; and he whom
+<pb n="7" facs="tcp:100611:4"/> the wiſe Profeſſors of this Age, and great Rabies, and Learned Orators ſet at nought, the ſame is become the Head and Chief Corner-ſtone in Gods Houſe; by the vertue of which Stone they that believeth in him are quickned and made living ſtones, meet to be joyned unto him (the Light) in whom the Building being fitly framed together, groweth up unto an holy Temple in the Lord: The Light was in the beginning before the Darkneſs was, and is now made manifeſt to extinguiſh the Darkneſs, and to fill the dark corners of the Earth with the bright beams of his glory; he is the Firſt, and the Laſt; he was before Time, and will remain when that which in time is paſſed away: The Light is the Beginning and the End, the Foundation and Top-ſtone, the Root and Off-ſpring of <hi>David,</hi> and the Bright Morning-Star, whoſe bleſſed Day <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> ſaw, and was glad; he dwelt among the ſeven golden Candle<g ref="char:EOLhyphen"/>ſticks, and was with the Church in the Wilderneſs, in the dayes of old: He is the Light of the holy City, <hi>New-Jeruſalem,</hi> which <hi>John</hi> (in the Lords-Day) ſaw comming down from God, prepared as a Bride adorned for her Husband: The Light giveth the Churches to know, that it is he that ſearcheth the Heart, and tryeth the Reins, from whom no Hypocrite in <hi>Sion</hi> can be hid; who ſaith, <hi>I come quickly, and my Reward is with me, to give unto every one according as his work ſhall be:</hi> But who ſhall abide the Day of his Coming, (in which the Heavens paſs away with a great noiſe, and the Elements melt with fervent heat) and who ſhall ſtand when he appeareth, who is like Refiners Fire, and like Fullers Soap, purifying his Sanctuary, and cleanſing his Temple in which he delights to dwell? He is the Word that was in the beginning, by whom all things were made that was made; and in him there is Life, and his Life is the Light of men; and he is the true Light that lighteth every man that cometh into the World; he is the Expreſs Image of his Fathers Glory, and is called the Son of God, in whom dwelleth all fulneſs of Joy, Happi<g ref="char:EOLhyphen"/>neſs, and Eternal Felicity; who is God over all, and above all, bleſſed, bleſſed for ever and evermore, Amen.</p>
+               <closer>
+                  <signed>W. B.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <pb n="8" facs="tcp:100611:5"/>
+               <p> OH, happy and bleſſed are the people, who though they once were Darkneſs, yet now are Light in the Lord; Oh, walk ye, oh, walk ye as Children of Light, bearing the pure Image of the Father of Lights, in whom is no Darkneſs at all; nor variableneſs or ſhadow of turning; but is the ſame yeſterday, ſo to day, and for evermore.</p>
+            </div>
+            <div type="postscript">
+               <p>FRiends that are Sufferers upon Truths account in <hi>Edmonds-Bury</hi> Goal, are in a meaſure of health (through the Love, Good<g ref="char:EOLhyphen"/>neſs and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercy of the Lord, bleſſed and magnified be his Name) this 7th day of the 10th Moneth 67; and their dear love in the precious Truth dearly reaches forth unto all faithfull Friends every where, and you are often in their remembrance, deſiring the Lord may proſper you, and bleſs you with all ſpiritual bleſſings in Chriſt Jeſus our Lord, and keep you with us, and the whole <hi>Iſrael</hi> of God, by his Almighty Power through Faith in his Name. unto his Hea<g ref="char:EOLhyphen"/>venly Kingdom, and enable us all to finiſh the work the Lord hath given us (by his Power) to do; that we may glorifie him on Earth, that he may glorifie us with himſelf, with that glory he had before the World began; even ſo be it; and Amen ſaith my Soul.</p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:100611:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
